@@ -1,5 +1,4 @@
-# 🛒 Analisis Performa Bisnis Tokopedia: Profitabilitas, Retensi, dan Logistik
-
+# 🛒 Analisis Strategi Pertumbuhan & Profitabilitas Tokopedia: Unit Economics, Retensi, dan SLA Logistik
 Analisis ini berfokus pada evaluasi performa bisnis Tokopedia dengan menganalisis data pengguna, transaksi, dan pengiriman. Mengingat pertumbuhan *e-commerce* yang sangat cepat, analisis ini ditujukan untuk membedah tantangan perusahaan dalam menjaga profitabilitas dan retensi pengguna di tengah gempuran promo besar-besaran, serta mengevaluasi efektivitas sistem logistik.
 
 ---
